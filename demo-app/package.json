@@ -1,13 +1,11 @@
 {
-  "name": "my-app",
+  "name": "demo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "babel-plugin-relay": "^2.0.0-rc.2",
-    "graphql": "^14.3.1",
-    "graphql.macro": "^1.4.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
